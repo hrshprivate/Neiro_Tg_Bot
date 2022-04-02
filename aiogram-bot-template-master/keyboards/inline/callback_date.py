@@ -1,0 +1,6 @@
+from aiogram.utils.callback_data import CallbackData
+
+buy_callback = CallbackData("buy", "name")
+
+
+test_callback = CallbackData("info", "name")
